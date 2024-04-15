@@ -45,7 +45,7 @@ public class StreamSample {
         System.out.println("「ス」を含む場所：" + filteredPlaces);
     }
 
-        
+  
 
     }
 
